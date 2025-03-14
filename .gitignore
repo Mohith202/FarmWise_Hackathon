@@ -7,3 +7,4 @@ helper.cpython
 __pycache__
 .pyc
 .streamlit/secrets.toml
+.venv
