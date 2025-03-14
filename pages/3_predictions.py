@@ -154,7 +154,7 @@ if type_crop:  # optional parameter to grow the crop is given by the user then t
         2, text=f":heart: {bar_text}")
     # call the api here and let it load until the bar is finished then print it later
     question = f"What should I do If I want to Grow {type_crop} in my farm in {state} in the {dist} district,with the values of fertilizer's of proportions as nitrogen:**{n}**,phosphorus:**{p}**,and pottasium:**{k}**?"
-    question = Retreiving_Details(question)
+    question = (question)
     for percent_complete in range(100):
         time.sleep(0.0001)
         bar.progress(percent_complete, text=f":heart: {bar_text} ")
