@@ -1,0 +1,9 @@
+README.MD
+__pycache__
+.gitignore
+.gcloudignore 
+.git
+.cpython
+virtualenv
+app.yaml
+Dockerfile
