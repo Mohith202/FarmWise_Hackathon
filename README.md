@@ -5,7 +5,7 @@ colorFrom: gray
 colorTo: blue
 sdk: streamlit
 sdk_version: 1.43.2
-app_file: app.py
+app_file: main.py
 pinned: false
 short_description: Hackathon Project
 ---
