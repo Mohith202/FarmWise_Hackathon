@@ -8,3 +8,5 @@ __pycache__
 .pyc
 .streamlit/secrets.toml
 .venv
+pages/datasets/raw_districtwise_yield_data.csv 
+readme_media/farmbot.gif
